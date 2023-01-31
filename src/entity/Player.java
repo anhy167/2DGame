@@ -121,6 +121,7 @@ public class Player extends Entity {
 			}
 		}
 
+		
 	}
 
 	public void pickUpObject(int i) {

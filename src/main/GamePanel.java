@@ -98,7 +98,7 @@ public class GamePanel extends JPanel implements Runnable{
 //				
 //				nextDrawTime += drawInterval;
 //			} catch (InterruptedException e) {
-//				// TODO Auto-generated catch block
+//				
 //				e.printStackTrace();
 //			}
 //		}
@@ -136,6 +136,8 @@ public void run() {
 				drawCount = 0;
 				timer = 0;
 			}
+			
+
 			
 	
 		}
